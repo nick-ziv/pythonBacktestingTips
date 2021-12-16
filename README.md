@@ -1,7 +1,7 @@
 
 # Improving backtesting through optimization and design choices
 
-This post will be oriented toward the Python language and will focus on optimization for deterministic fot-loop style backtesting
+This post will be oriented toward the Python language
 
 Part 1: Backtesting design:
 
